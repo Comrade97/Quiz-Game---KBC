@@ -1,8 +1,16 @@
 # Quiz-Game-KBC
-Quiz Game is a console based game made using JAVA.
+Quiz Game is a console based game made using JAVA and it includes all question related to JAVA programming language only.
 
-Quiz Game is made on an idea of KBC - Kone Banega Corepati TV show. It include different types of difficulty level that include easy, medium and hard. After every five question difficulty level changes. Game include 15 question that shuffle on every try. If participant gives wrong answer then his/her game gets over and correct answer is displayed at last.
+Quiz Game is made on an idea of KBC - Kone Banega Corepati TV show. It include different types of difficulty level that include easy, medium, hard and master level. After every five question difficulty level changes. Last 16th question comes under master question with higher difficulty. Game include 16 question that shuffle on every try. If participant gives wrong answer then his/her game gets over and correct answer is displayed at last.
 
+Rules for Quiz Game are:
+1. This quiz consists 16 questions.");
+2. There will be 4 categories or badges.
+        (1) Question 1 to 5 : Bronze
+				(2) Question 6 to 10 : Silver
+        (3) Question 11 to 15 : Gold
+				(4) Question 16 : Master
+3. One incorrect answer will result into end of your quiz.
 
 <b>Demonstration of Game</b> :
 
