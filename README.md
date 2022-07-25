@@ -5,11 +5,11 @@ Quiz Game is made on an idea of KBC - Kone Banega Corepati TV show. It include d
 
 Rules for Quiz Game are:
 1. This quiz consists 16 questions.");
-2. There will be 4 categories or badges.
-        (1) Question 1 to 5 : Bronze
-				(2) Question 6 to 10 : Silver
-        (3) Question 11 to 15 : Gold
-				(4) Question 16 : Master
+2. There will be 4 categories or badges.<br>
+        (1) Question 1 to 5 : Bronze<br>
+	(2) Question 6 to 10 : Silver<br>
+        (3) Question 11 to 15 : Gold<br>
+	(4) Question 16 : Master
 3. One incorrect answer will result into end of your quiz.
 
 <b>Demonstration of Game</b> :
